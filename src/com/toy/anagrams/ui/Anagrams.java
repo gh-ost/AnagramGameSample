@@ -43,6 +43,10 @@ import javax.swing.SwingUtilities;
  */
 public class Anagrams extends JFrame {
 
+    /*
+     * Sample comment
+     */
+    
     public static void main(String[] args) {
         /* Set the Nimbus look and feel */
         //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
