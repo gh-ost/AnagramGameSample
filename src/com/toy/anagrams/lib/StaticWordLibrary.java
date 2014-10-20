@@ -36,6 +36,10 @@ package com.toy.anagrams.lib;
  */
 final class StaticWordLibrary extends WordLibrary {
 
+	/*
+	 * askdhs akjldghas
+	 */
+	
     private static final String[] WORD_LIST = {
         "abstraction",
         "ambiguous",
